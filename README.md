@@ -1,2 +1,2 @@
-# Data-Cleaning-and-EDA-in-R
+# Data-Cleaning-and-Exploratory-Data-Analysis-in-R
 University coursework
