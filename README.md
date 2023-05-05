@@ -1,2 +1,2 @@
-# Data-Mining-Machine-Learning
+# Data-Cleaning-and-EDA-in-R
 University coursework
